@@ -60,6 +60,9 @@ border: none;</string>
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -77,6 +80,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -96,6 +102,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -113,6 +122,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -132,6 +144,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -149,6 +164,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -168,6 +186,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -185,6 +206,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -204,6 +228,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -221,6 +248,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -240,6 +270,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -257,6 +290,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -276,6 +312,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -293,6 +332,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -312,6 +354,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -329,6 +374,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -348,6 +396,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -365,6 +416,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -384,6 +438,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -401,6 +458,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -420,6 +480,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -437,6 +500,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -456,6 +522,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -473,6 +542,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -492,6 +564,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -509,6 +584,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -528,6 +606,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -545,6 +626,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -564,6 +648,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -581,6 +668,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -600,6 +690,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -617,6 +710,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -636,6 +732,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -653,6 +752,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -672,6 +774,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -689,6 +794,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -708,6 +816,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -725,6 +836,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -744,6 +858,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -761,6 +878,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -780,6 +900,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -797,6 +920,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -816,6 +942,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -833,6 +962,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -852,6 +984,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -869,6 +1004,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -888,6 +1026,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -905,6 +1046,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -924,6 +1068,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -941,6 +1088,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -960,6 +1110,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -977,6 +1130,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -996,6 +1152,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1013,6 +1172,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1032,6 +1194,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1049,6 +1214,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1068,6 +1236,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1085,6 +1256,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1104,6 +1278,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1121,6 +1298,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1140,6 +1320,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1157,6 +1340,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1176,6 +1362,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1193,6 +1382,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1212,6 +1404,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1229,6 +1424,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1248,6 +1446,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1265,6 +1466,9 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
@@ -1284,6 +1488,9 @@ border: none;
      <height>27</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
 border: none; 
@@ -1301,6 +1508,2739 @@ border: none;
      <width>27</width>
      <height>27</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h1">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h5">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>188</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h8">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>271</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h6">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>216</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h2">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>106</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h3">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h10">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>326</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h4">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h7">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>243</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h9">
+   <property name="geometry">
+    <rect>
+     <x>751</x>
+     <y>299</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j2">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>106</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j6">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>216</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j5">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j8">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>271</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j4">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j10">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>328</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j7">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>244</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j9">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>298</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j3">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j1">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i2">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i4">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>160</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i3">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>132</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i5">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>187</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i9">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>298</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i10">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>325</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i6">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>215</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i1">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i7">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>242</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i8">
+   <property name="geometry">
+    <rect>
+     <x>777</x>
+     <y>270</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f5_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h9_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>301</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c2_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d10_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>326</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a10_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>326</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a4_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d1_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g7_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>245</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j10_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>330</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d7_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>244</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a5_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a9_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>298</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j7_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>246</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f2_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>107</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i7_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>244</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h2_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>108</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e8_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>270</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j6_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>218</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b9_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>298</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a6_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>216</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j9_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>300</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g2_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>107</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h8_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>273</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g1_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>80</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g8_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>272</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b10_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>327</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a2_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d6_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>216</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i6_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>217</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e4_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>160</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b2_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e10_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>326</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d2_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c10_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>326</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d3_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h10_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>328</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j1_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>80</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a1_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e3_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b5_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>188</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h6_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>218</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c9_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>298</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f9_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>299</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a3_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>134</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g3_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>135</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f8_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>272</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b3_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e1_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a7_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>243</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i4_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>162</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h1_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>80</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d5_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e9_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>297</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j5_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>191</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e7_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>243</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i9_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>300</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e6_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>215</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i3_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>134</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g5_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f6_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>217</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c6_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>215</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c4_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e2_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>105</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d9_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>299</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f10_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>328</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j4_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>163</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b4_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h3_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>135</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g9_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>300</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h4_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>163</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g4_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>162</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f7_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>245</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b8_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>270</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i8_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>272</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h7_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>245</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g10_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>328</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i2_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>107</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b7_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>244</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c8_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>270</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b1_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i5_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>189</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b6_2">
+   <property name="geometry">
+    <rect>
+     <x>148</x>
+     <y>216</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="e5_2">
+   <property name="geometry">
+    <rect>
+     <x>227</x>
+     <y>187</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f3_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>135</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j8_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>273</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c3_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>133</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="g6_2">
+   <property name="geometry">
+    <rect>
+     <x>279</x>
+     <y>217</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i10_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>327</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c1_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>78</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d8_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>271</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="d4_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>161</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f4_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>162</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c7_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>243</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j3_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>135</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="f1_2">
+   <property name="geometry">
+    <rect>
+     <x>253</x>
+     <y>80</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i1_2">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>80</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="a8_2">
+   <property name="geometry">
+    <rect>
+     <x>121</x>
+     <y>270</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h5_2">
+   <property name="geometry">
+    <rect>
+     <x>305</x>
+     <y>190</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="j2_2">
+   <property name="geometry">
+    <rect>
+     <x>355</x>
+     <y>108</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">backgroud: none; 
+border: none; 
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="c5_2">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>188</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
     <string notr="true">backgroud: none; 
