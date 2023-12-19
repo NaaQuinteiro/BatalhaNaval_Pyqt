@@ -1,10 +1,10 @@
 # importando bibliotecas
-from PyQt5 import QtWidgets , uic
+from PyQt5 import QtWidgets, uic
  
 class telas:
     def __init__(self) :
         app = QtWidgets.QApplication([])
-        self.inicio = uic.loadUi("telas/tela_inical.ui")
+        self.inicio = uic.loadUi("inicial.ui")
         self.inicio.show()
         # self.tabela_jogo = uic.loadUi("telas/tabela_jogo.ui")
         # self.ganhador = uic.loadUi("telas/ganhador.ui")
