@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>920</width>
-    <height>532</height>
+    <height>538</height>
    </rect>
   </property>
   <property name="maximumSize">
@@ -30,8 +30,8 @@
    </property>
    <property name="maximumSize">
     <size>
-     <width>1080</width>
-     <height>1080</height>
+     <width>2000</width>
+     <height>2000</height>
     </size>
    </property>
    <property name="styleSheet">
@@ -64,12 +64,13 @@ border: none;</string>
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a2">
@@ -84,13 +85,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a3">
@@ -105,13 +104,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a4">
@@ -126,13 +123,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a5">
@@ -147,13 +142,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a6">
@@ -168,13 +161,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a7">
@@ -189,13 +180,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a8">
@@ -210,13 +199,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a9">
@@ -231,13 +218,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a10">
@@ -252,13 +237,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b4">
@@ -273,13 +256,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b7">
@@ -294,13 +275,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b6">
@@ -315,13 +294,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b2">
@@ -336,13 +313,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b8">
@@ -357,13 +332,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b10">
@@ -378,13 +351,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b5">
@@ -399,13 +370,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b1">
@@ -420,13 +389,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b9">
@@ -441,13 +408,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b3">
@@ -462,13 +427,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c8">
@@ -483,13 +446,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c9">
@@ -504,13 +465,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c3">
@@ -525,13 +484,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c4">
@@ -546,13 +503,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c5">
@@ -567,13 +522,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c6">
@@ -588,13 +541,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c1">
@@ -609,13 +560,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c7">
@@ -630,13 +579,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c10">
@@ -651,13 +598,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c2">
@@ -672,13 +617,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d3">
@@ -693,13 +636,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d8">
@@ -714,13 +655,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d1">
@@ -735,13 +674,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d2">
@@ -756,13 +693,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d6">
@@ -777,13 +712,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d4">
@@ -798,13 +731,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d7">
@@ -819,13 +750,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d9">
@@ -840,13 +769,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d5">
@@ -861,13 +788,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d10">
@@ -882,13 +807,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e3">
@@ -903,13 +826,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e8">
@@ -924,13 +845,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e4">
@@ -945,13 +864,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e1">
@@ -966,13 +883,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e2">
@@ -987,13 +902,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e5">
@@ -1008,13 +921,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e10">
@@ -1029,13 +940,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e9">
@@ -1050,13 +959,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e6">
@@ -1071,13 +978,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e7">
@@ -1092,13 +997,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f9">
@@ -1113,13 +1016,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f2">
@@ -1134,13 +1035,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f10">
@@ -1155,13 +1054,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f1">
@@ -1176,13 +1073,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f7">
@@ -1197,13 +1092,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f6">
@@ -1218,13 +1111,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f3">
@@ -1239,13 +1130,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f4">
@@ -1260,13 +1149,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f5">
@@ -1281,13 +1168,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f8">
@@ -1302,13 +1187,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g5">
@@ -1323,13 +1206,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g10">
@@ -1344,13 +1225,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g3">
@@ -1365,13 +1244,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g7">
@@ -1386,13 +1263,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g2">
@@ -1407,13 +1282,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g1">
@@ -1428,13 +1301,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g9">
@@ -1449,13 +1320,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g6">
@@ -1470,13 +1339,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g8">
@@ -1491,13 +1358,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g4">
@@ -1512,13 +1377,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h1">
@@ -1533,13 +1396,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h5">
@@ -1554,13 +1415,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h8">
@@ -1575,13 +1434,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h6">
@@ -1596,13 +1453,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h2">
@@ -1617,13 +1472,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h3">
@@ -1638,13 +1491,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h10">
@@ -1659,13 +1510,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h4">
@@ -1680,13 +1529,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h7">
@@ -1701,13 +1548,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h9">
@@ -1722,13 +1567,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j2">
@@ -1743,13 +1586,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j6">
@@ -1764,13 +1605,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j5">
@@ -1785,13 +1624,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j8">
@@ -1806,13 +1643,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j4">
@@ -1827,20 +1662,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j10">
    <property name="geometry">
     <rect>
      <x>804</x>
-     <y>328</y>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -1848,13 +1681,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j7">
@@ -1869,13 +1700,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j9">
@@ -1890,13 +1719,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j3">
@@ -1911,13 +1738,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j1">
@@ -1932,13 +1757,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i2">
@@ -1953,13 +1776,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i4">
@@ -1974,13 +1795,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i3">
@@ -1995,13 +1814,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i5">
@@ -2016,13 +1833,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i9">
@@ -2037,20 +1852,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i10">
    <property name="geometry">
     <rect>
      <x>777</x>
-     <y>325</y>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2058,13 +1871,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i6">
@@ -2079,13 +1890,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i1">
@@ -2100,13 +1909,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i7">
@@ -2121,13 +1928,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i8">
@@ -2142,20 +1947,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f5_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>189</y>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2163,20 +1966,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h9_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>301</y>
+     <x>306</x>
+     <y>299</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2184,13 +1985,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c2_2">
@@ -2205,13 +2004,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d10_2">
@@ -2226,13 +2023,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a10_2">
@@ -2255,6 +2050,9 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="a4_2">
    <property name="geometry">
@@ -2276,6 +2074,9 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="d1_2">
    <property name="geometry">
@@ -2289,20 +2090,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g7_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>245</y>
+     <y>244</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2310,20 +2109,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j10_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>330</y>
+     <x>358</x>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2331,13 +2128,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d7_2">
@@ -2352,13 +2147,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a5_2">
@@ -2381,6 +2174,9 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="a9_2">
    <property name="geometry">
@@ -2402,53 +2198,14 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="j7_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>246</y>
-     <width>27</width>
-     <height>27</height>
-    </rect>
-   </property>
-   <property name="cursor">
-    <cursorShape>PointingHandCursor</cursorShape>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="f2_2">
-   <property name="geometry">
-    <rect>
-     <x>253</x>
-     <y>107</y>
-     <width>27</width>
-     <height>27</height>
-    </rect>
-   </property>
-   <property name="cursor">
-    <cursorShape>PointingHandCursor</cursorShape>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="i7_2">
-   <property name="geometry">
-    <rect>
-     <x>328</x>
+     <x>358</x>
      <y>244</y>
      <width>27</width>
      <height>27</height>
@@ -2457,20 +2214,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
-  <widget class="QPushButton" name="h2_2">
+  <widget class="QPushButton" name="f2_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>108</y>
+     <x>253</x>
+     <y>106</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2478,20 +2233,56 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="i7_2">
+   <property name="geometry">
+    <rect>
+     <x>332</x>
+     <y>243</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="h2_2">
+   <property name="geometry">
+    <rect>
+     <x>306</x>
+     <y>106</y>
+     <width>27</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e8_2">
    <property name="geometry">
     <rect>
      <x>227</x>
-     <y>270</y>
+     <y>271</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2499,20 +2290,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j6_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>218</y>
+     <x>358</x>
+     <y>216</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2520,13 +2309,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b9_2">
@@ -2541,13 +2328,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a6_2">
@@ -2570,12 +2355,15 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="j9_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>300</y>
+     <x>359</x>
+     <y>298</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2583,20 +2371,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g2_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>107</y>
+     <y>106</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2604,20 +2390,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h8_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>273</y>
+     <x>306</x>
+     <y>271</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2625,20 +2409,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g1_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>80</y>
+     <y>78</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2646,20 +2428,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g8_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>272</y>
+     <y>271</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2667,13 +2447,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b10_2">
@@ -2689,12 +2467,13 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a2_2">
@@ -2710,12 +2489,14 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
+    <string notr="true">
 </string>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d6_2">
@@ -2730,20 +2511,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i6_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>217</y>
+     <x>332</x>
+     <y>215</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2751,13 +2530,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e4_2">
@@ -2772,13 +2549,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b2_2">
@@ -2794,12 +2569,13 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e10_2">
@@ -2814,13 +2590,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d2_2">
@@ -2835,13 +2609,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c10_2">
@@ -2856,13 +2628,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d3_2">
@@ -2877,20 +2647,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h10_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>328</y>
+     <x>306</x>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2898,20 +2666,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j1_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>80</y>
+     <x>358</x>
+     <y>78</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -2919,13 +2685,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a1_2">
@@ -2941,12 +2705,14 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
+    <string notr="true">
 </string>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e3_2">
@@ -2961,13 +2727,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b5_2">
@@ -2982,20 +2746,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h6_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>218</y>
+     <x>306</x>
+     <y>216</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3003,13 +2765,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c9_2">
@@ -3024,20 +2784,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f9_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>299</y>
+     <y>298</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3045,13 +2803,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a3_2">
@@ -3074,12 +2830,15 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="g3_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>135</y>
+     <y>134</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3087,20 +2846,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f8_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>272</y>
+     <y>271</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3108,13 +2865,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b3_2">
@@ -3130,12 +2885,13 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e1_2">
@@ -3150,13 +2906,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a7_2">
@@ -3179,12 +2933,15 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="i4_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>162</y>
+     <x>332</x>
+     <y>160</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3192,20 +2949,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h1_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>80</y>
+     <x>306</x>
+     <y>78</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3213,20 +2968,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d5_2">
    <property name="geometry">
     <rect>
      <x>200</x>
-     <y>189</y>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3234,20 +2987,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e9_2">
    <property name="geometry">
     <rect>
      <x>227</x>
-     <y>297</y>
+     <y>298</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3255,20 +3006,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j5_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>191</y>
+     <x>358</x>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3276,13 +3025,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e7_2">
@@ -3297,20 +3044,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i9_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>300</y>
+     <x>332</x>
+     <y>298</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3318,13 +3063,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e6_2">
@@ -3339,20 +3082,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i3_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>134</y>
+     <x>332</x>
+     <y>133</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3360,20 +3101,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g5_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>189</y>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3381,20 +3120,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f6_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>217</y>
+     <y>216</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3402,13 +3139,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c6_2">
@@ -3423,13 +3158,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c4_2">
@@ -3444,13 +3177,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e2_2">
@@ -3465,13 +3196,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d9_2">
@@ -3486,20 +3215,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f10_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>328</y>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3507,20 +3234,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j4_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>163</y>
+     <x>358</x>
+     <y>160</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3528,13 +3253,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b4_2">
@@ -3550,19 +3273,20 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
+    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h3_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>135</y>
+     <x>306</x>
+     <y>133</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3570,20 +3294,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g9_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>300</y>
+     <y>298</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3591,20 +3313,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h4_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>163</y>
+     <x>306</x>
+     <y>161</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3612,20 +3332,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g4_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>162</y>
+     <y>161</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3633,20 +3351,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f7_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>245</y>
+     <y>243</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3654,13 +3370,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b8_2">
@@ -3675,20 +3389,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i8_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>272</y>
+     <x>332</x>
+     <y>270</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3696,20 +3408,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="h7_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>245</y>
+     <x>306</x>
+     <y>244</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3717,20 +3427,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g10_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>328</y>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3738,20 +3446,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i2_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>107</y>
+     <x>332</x>
+     <y>105</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3759,13 +3465,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b7_2">
@@ -3780,13 +3484,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c8_2">
@@ -3801,13 +3503,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b1_2">
@@ -3823,19 +3523,21 @@ border: none;
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
+    <string notr="true">
 </string>
    </property>
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="i5_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>189</y>
+     <x>332</x>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3843,13 +3545,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="b6_2">
@@ -3864,13 +3564,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="e5_2">
@@ -3885,20 +3583,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f3_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>135</y>
+     <y>133</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3906,20 +3602,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j8_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>273</y>
+     <x>358</x>
+     <y>271</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3927,13 +3621,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c3_2">
@@ -3948,20 +3640,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="g6_2">
    <property name="geometry">
     <rect>
      <x>279</x>
-     <y>217</y>
+     <y>216</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3969,20 +3659,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i10_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>327</y>
+     <x>332</x>
+     <y>326</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -3990,13 +3678,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c1_2">
@@ -4011,13 +3697,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d8_2">
@@ -4032,13 +3716,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="d4_2">
@@ -4053,20 +3735,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f4_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>162</y>
+     <y>160</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -4074,13 +3754,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c7_2">
@@ -4095,20 +3773,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j3_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>135</y>
+     <x>358</x>
+     <y>133</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -4116,41 +3792,37 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="f1_2">
    <property name="geometry">
     <rect>
      <x>253</x>
-     <y>80</y>
-     <width>27</width>
+     <y>78</y>
+     <width>29</width>
      <height>27</height>
     </rect>
    </property>
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="i1_2">
    <property name="geometry">
     <rect>
-     <x>328</x>
-     <y>80</y>
+     <x>332</x>
+     <y>78</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -4158,13 +3830,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="a8_2">
@@ -4187,12 +3857,15 @@ border: none;
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="h5_2">
    <property name="geometry">
     <rect>
-     <x>305</x>
-     <y>190</y>
+     <x>306</x>
+     <y>188</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -4200,20 +3873,18 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="j2_2">
    <property name="geometry">
     <rect>
-     <x>355</x>
-     <y>108</y>
+     <x>358</x>
+     <y>106</y>
      <width>27</width>
      <height>27</height>
     </rect>
@@ -4221,13 +3892,11 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
    </property>
   </widget>
   <widget class="QPushButton" name="c5_2">
@@ -4242,15 +3911,214 @@ border: none;
    <property name="cursor">
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
-   <property name="styleSheet">
-    <string notr="true">backgroud: none; 
-border: none; 
-</string>
-   </property>
    <property name="text">
     <string/>
    </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
   </widget>
+  <zorder>tela_batalha</zorder>
+  <zorder>a1</zorder>
+  <zorder>a2</zorder>
+  <zorder>a3</zorder>
+  <zorder>a4</zorder>
+  <zorder>a5</zorder>
+  <zorder>a6</zorder>
+  <zorder>a7</zorder>
+  <zorder>a8</zorder>
+  <zorder>a9</zorder>
+  <zorder>a10</zorder>
+  <zorder>b4</zorder>
+  <zorder>b7</zorder>
+  <zorder>b6</zorder>
+  <zorder>b2</zorder>
+  <zorder>b8</zorder>
+  <zorder>b10</zorder>
+  <zorder>b5</zorder>
+  <zorder>b1</zorder>
+  <zorder>b9</zorder>
+  <zorder>b3</zorder>
+  <zorder>c8</zorder>
+  <zorder>c9</zorder>
+  <zorder>c3</zorder>
+  <zorder>c4</zorder>
+  <zorder>c5</zorder>
+  <zorder>c6</zorder>
+  <zorder>c1</zorder>
+  <zorder>c7</zorder>
+  <zorder>c10</zorder>
+  <zorder>c2</zorder>
+  <zorder>d3</zorder>
+  <zorder>d8</zorder>
+  <zorder>d1</zorder>
+  <zorder>d2</zorder>
+  <zorder>d6</zorder>
+  <zorder>d4</zorder>
+  <zorder>d7</zorder>
+  <zorder>d9</zorder>
+  <zorder>d5</zorder>
+  <zorder>d10</zorder>
+  <zorder>e3</zorder>
+  <zorder>e8</zorder>
+  <zorder>e4</zorder>
+  <zorder>e1</zorder>
+  <zorder>e2</zorder>
+  <zorder>e5</zorder>
+  <zorder>e10</zorder>
+  <zorder>e9</zorder>
+  <zorder>e6</zorder>
+  <zorder>e7</zorder>
+  <zorder>f9</zorder>
+  <zorder>f2</zorder>
+  <zorder>f10</zorder>
+  <zorder>f1</zorder>
+  <zorder>f7</zorder>
+  <zorder>f6</zorder>
+  <zorder>f3</zorder>
+  <zorder>f4</zorder>
+  <zorder>f5</zorder>
+  <zorder>f8</zorder>
+  <zorder>g5</zorder>
+  <zorder>g10</zorder>
+  <zorder>g3</zorder>
+  <zorder>g7</zorder>
+  <zorder>g2</zorder>
+  <zorder>g1</zorder>
+  <zorder>g9</zorder>
+  <zorder>g6</zorder>
+  <zorder>g8</zorder>
+  <zorder>g4</zorder>
+  <zorder>h1</zorder>
+  <zorder>h5</zorder>
+  <zorder>h8</zorder>
+  <zorder>h6</zorder>
+  <zorder>h2</zorder>
+  <zorder>h3</zorder>
+  <zorder>h10</zorder>
+  <zorder>h4</zorder>
+  <zorder>h7</zorder>
+  <zorder>h9</zorder>
+  <zorder>j2</zorder>
+  <zorder>j6</zorder>
+  <zorder>j5</zorder>
+  <zorder>j8</zorder>
+  <zorder>j4</zorder>
+  <zorder>j10</zorder>
+  <zorder>j7</zorder>
+  <zorder>j9</zorder>
+  <zorder>j3</zorder>
+  <zorder>j1</zorder>
+  <zorder>i2</zorder>
+  <zorder>i4</zorder>
+  <zorder>i3</zorder>
+  <zorder>i5</zorder>
+  <zorder>i9</zorder>
+  <zorder>i10</zorder>
+  <zorder>i6</zorder>
+  <zorder>i1</zorder>
+  <zorder>i7</zorder>
+  <zorder>i8</zorder>
+  <zorder>f5_2</zorder>
+  <zorder>h9_2</zorder>
+  <zorder>c2_2</zorder>
+  <zorder>d10_2</zorder>
+  <zorder>a10_2</zorder>
+  <zorder>a4_2</zorder>
+  <zorder>d1_2</zorder>
+  <zorder>g7_2</zorder>
+  <zorder>j10_2</zorder>
+  <zorder>d7_2</zorder>
+  <zorder>a5_2</zorder>
+  <zorder>a9_2</zorder>
+  <zorder>j7_2</zorder>
+  <zorder>f2_2</zorder>
+  <zorder>i7_2</zorder>
+  <zorder>h2_2</zorder>
+  <zorder>e8_2</zorder>
+  <zorder>j6_2</zorder>
+  <zorder>b9_2</zorder>
+  <zorder>a6_2</zorder>
+  <zorder>j9_2</zorder>
+  <zorder>g2_2</zorder>
+  <zorder>h8_2</zorder>
+  <zorder>g1_2</zorder>
+  <zorder>g8_2</zorder>
+  <zorder>b10_2</zorder>
+  <zorder>a2_2</zorder>
+  <zorder>d6_2</zorder>
+  <zorder>i6_2</zorder>
+  <zorder>e4_2</zorder>
+  <zorder>b2_2</zorder>
+  <zorder>e10_2</zorder>
+  <zorder>d2_2</zorder>
+  <zorder>c10_2</zorder>
+  <zorder>d3_2</zorder>
+  <zorder>h10_2</zorder>
+  <zorder>j1_2</zorder>
+  <zorder>a1_2</zorder>
+  <zorder>e3_2</zorder>
+  <zorder>b5_2</zorder>
+  <zorder>h6_2</zorder>
+  <zorder>c9_2</zorder>
+  <zorder>f9_2</zorder>
+  <zorder>a3_2</zorder>
+  <zorder>g3_2</zorder>
+  <zorder>f8_2</zorder>
+  <zorder>b3_2</zorder>
+  <zorder>e1_2</zorder>
+  <zorder>a7_2</zorder>
+  <zorder>i4_2</zorder>
+  <zorder>d5_2</zorder>
+  <zorder>e9_2</zorder>
+  <zorder>j5_2</zorder>
+  <zorder>e7_2</zorder>
+  <zorder>i9_2</zorder>
+  <zorder>e6_2</zorder>
+  <zorder>i3_2</zorder>
+  <zorder>g5_2</zorder>
+  <zorder>f6_2</zorder>
+  <zorder>c6_2</zorder>
+  <zorder>c4_2</zorder>
+  <zorder>e2_2</zorder>
+  <zorder>d9_2</zorder>
+  <zorder>f10_2</zorder>
+  <zorder>j4_2</zorder>
+  <zorder>b4_2</zorder>
+  <zorder>h3_2</zorder>
+  <zorder>g9_2</zorder>
+  <zorder>h4_2</zorder>
+  <zorder>g4_2</zorder>
+  <zorder>f7_2</zorder>
+  <zorder>b8_2</zorder>
+  <zorder>i8_2</zorder>
+  <zorder>h7_2</zorder>
+  <zorder>g10_2</zorder>
+  <zorder>i2_2</zorder>
+  <zorder>b7_2</zorder>
+  <zorder>c8_2</zorder>
+  <zorder>b1_2</zorder>
+  <zorder>i5_2</zorder>
+  <zorder>b6_2</zorder>
+  <zorder>e5_2</zorder>
+  <zorder>f3_2</zorder>
+  <zorder>j8_2</zorder>
+  <zorder>c3_2</zorder>
+  <zorder>g6_2</zorder>
+  <zorder>i10_2</zorder>
+  <zorder>c1_2</zorder>
+  <zorder>d8_2</zorder>
+  <zorder>d4_2</zorder>
+  <zorder>f4_2</zorder>
+  <zorder>c7_2</zorder>
+  <zorder>j3_2</zorder>
+  <zorder>f1_2</zorder>
+  <zorder>i1_2</zorder>
+  <zorder>a8_2</zorder>
+  <zorder>h5_2</zorder>
+  <zorder>j2_2</zorder>
+  <zorder>c5_2</zorder>
+  <zorder>h1_2</zorder>
  </widget>
  <resources/>
  <connections/>
