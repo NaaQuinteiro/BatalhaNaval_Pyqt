@@ -72,19 +72,20 @@ class telas:
             if a == 1: 
                 separa = list(coordenadas[a])
                 self.coordenadas_barcos.append(f"{separa[0]}{int(separa[1]) + 1}")
-                print(self.coordenadas_barcos)
+                # print(self.coordenadas_barcos)
 
             if a == 2:
                 for i in range(2):
                     separa = list(coordenadas[a])
                     self.coordenadas_barcos.append(f"{separa[0]}{int(separa[1]) + (i + 1)}")
-                    print(self.coordenadas_barcos)
+                    # print(self.coordenadas_barcos)
                 
             if a == 3:
                  for i in range(3):
                     separa = list(coordenadas[a])
                     self.coordenadas_barcos.append(f"{separa[0]}{int(separa[1]) + (i + 1)}")
-                    print(self.coordenadas_barcos)
+                    # print(self.coordenadas_barcos)
+        print(self.coordenadas_barcos)
             
         # comando para executar sempre que o botões da tela forem clicados 
         for button in self.batalha.findChildren(QtWidgets.QPushButton):
@@ -120,6 +121,7 @@ class telas:
             if senderCoordenada in self.coordenadas_barcos:
                 sender.setStyleSheet("background-image: url('img/naufrago.png'); border: none")
                 self.coordenadas_barcos.remove(senderCoordenada)
+                sender.setEnabled(False) #comando para evitar que o botão seja clicado novamente 
 
                 if len(self.coordenadas_barcos) == 0:
                     self.batalha.close()
@@ -129,6 +131,7 @@ class telas:
                 sender.setStyleSheet("background-image: url('img/bomb.png'); border: none")
                 self.tentativas +=1
                 print(self.tentativas)
+                sender.setEnabled(False) #comando para evitar que o botão seja clicado novamente 
         
         else:
             self.batalha.close()
